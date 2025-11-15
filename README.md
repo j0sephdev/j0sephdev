@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm J0 (aka j0seph)
 
-<!--
-**j0sephdev/j0sephdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer / Software Developer — Python • HTML • CSS • JS • Next.js / React
 
-Here are some ideas to get you started:
+Building clean, fast, modern websites & full‑stack tools. I focus on smooth UI, solid architecture, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* Full‑stack development (Next.js / React)
+* Python scripting & backend tools
+* UI/UX‑focused web apps
+* Performance tweaks & experimentation
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+## 📌 Featured Projects
+
+*(More coming soon — placeholders for now)*
+
+* 🔹 **Project 01** — desc
+* 🔹 **Project 02** — desc
+* 🔹 **Project 03** — desc
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+Email: [uw2hhpgj2@mozmail.com](mailto:uw2hhpgj2@mozmail.com)
+<div></div>
+Discord: j0sephdev
+<div>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ </div>
+
+<div align="left">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=j0sephdev\&show_icons=true\&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sephdev\&layout=compact\&theme=tokyonight)
+
+</div>
